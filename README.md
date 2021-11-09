@@ -2,6 +2,7 @@
 
 ### MySQL 8 with Cellar 
 * Directory : /usr/local/Cellar/mysql/8.0.21_1
+* brew services stop mysql
 
 ### MySQL with MAMP
 * Directory : /Applications/MAMP/Library/bin/mysql
